@@ -8,6 +8,18 @@
 
 
 
+## Using Sklearn library:
+
+### Training set plot
+
+![sktrain](https://user-images.githubusercontent.com/40026126/43612075-cd443038-96c8-11e8-8a91-1612df155c37.PNG)
+
+### Testing set plot
+![sktest](https://user-images.githubusercontent.com/40026126/43612070-ca821dd8-96c8-11e8-8d89-8774c3e0b0cd.PNG)
+
+
+
+
 
 
 
