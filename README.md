@@ -7,6 +7,9 @@
 ## Without using Sklearn:
 
 
+![hyp](https://user-images.githubusercontent.com/40026126/43612225-4a2cf792-96c9-11e8-9173-c05ffa2d228b.PNG)
+
+
 
 ## Using Sklearn library:
 
@@ -19,13 +22,7 @@
 
 
 
-
-
-
-
-
-
-
-
+### Cost vs Iterations:
+### In order to check whether the cost function is decreasing or not.
 
 ![cost](https://user-images.githubusercontent.com/40026126/43611958-6c3f471e-96c8-11e8-87cb-5b3c362233f7.PNG)
